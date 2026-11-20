@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://slheat.lv/</loc>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://slheat.lv/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://slheat.lv/ru/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://slheat.lv/en/"/>
+  </url>
+  <url>
+    <loc>https://slheat.lv/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://slheat.lv/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://slheat.lv/ru/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://slheat.lv/en/"/>
+  </url>
+  <url>
+    <loc>https://slheat.lv/en/</loc>
+    <xhtml:link rel="alternate" hreflang="lv" href="https://slheat.lv/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://slheat.lv/ru/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://slheat.lv/en/"/>
+  </url>
+</urlset>
